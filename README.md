@@ -7,10 +7,10 @@
 
 1. kyochon.com/shop/domestic.asp
 
-Kyochon_Crawler.inynb
+    Kyochon_Crawler.inynb
  
 2. NAVER API CODE
 
-nvCrawler.inynb
+    nvCrawler.inynb
 
 https://github.com/naver/naver-openapi-guide
